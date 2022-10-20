@@ -12,6 +12,7 @@ library("stringr")
 library("taxize")
 library("ggtree") 
 library("ggplot2")
+library("shinythemes")
         
 
 # Retrieve UI and Server files
