@@ -1,5 +1,3 @@
-library("shinythemes")
-
 ui <- navbarPage("PhyloME", theme = shinytheme("yeti"),
            
            # Introduction
